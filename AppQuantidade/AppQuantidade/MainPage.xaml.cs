@@ -10,7 +10,7 @@ namespace AppQuantidade
 {
     public partial class MainPage : ContentPage
     {
-        private int quantidade;
+        private int quantidade = 1;
 
         public MainPage()
         {
